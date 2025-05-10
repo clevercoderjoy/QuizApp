@@ -18,7 +18,7 @@ const Header = () => {
               <li>
                 <Link
                   to="/"
-                  className="text-blue-500 hover:text-white hover:bg-blue-500 border-2 border-blue-500 hover:border-blue-500 px-4 py-2 rounded-md font-bold transition-colors"
+                  className="text-blue-500 hover:text-white hover:bg-blue-500 border-2 border-blue-500 hover:border-blue-500 px-2 py-1 rounded-md font-bold transition-colors"
                 >
                   Home
                 </Link>
@@ -26,7 +26,7 @@ const Header = () => {
               <li>
                 <Link
                   to="/results"
-                  className="text-blue-500 hover:text-white hover:bg-blue-500 border-2 border-blue-500 hover:border-blue-500 px-4 py-2 rounded-md font-bold transition-colors"
+                  className="text-blue-500 hover:text-white hover:bg-blue-500 border-2 border-blue-500 hover:border-blue-500 px-2 py-1 rounded-md font-bold transition-colors"
                 >
                   Results
                 </Link>
